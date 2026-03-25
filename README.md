@@ -90,8 +90,8 @@ docker run aichatbot
 ---
 
 ## 👨‍💻 Developer
-- Your Name  
-- Department / University  
+- Muhammad Ameer Hamza  
+- BSCS  
 
 ---
 
