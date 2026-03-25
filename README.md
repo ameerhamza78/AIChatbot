@@ -33,17 +33,6 @@ The chatbot simulates AI behavior and enhances user interaction through a clean 
 
 ---
 
-## 📁 Project Structure
-
-SourceCode/
-TheoryReport/
-PracticalReport/
-Docker/
-Screenshots/
-
-
----
-
 ## 🚀 Setup Instructions
 
 1. Clone the repository:
