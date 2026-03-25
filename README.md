@@ -49,7 +49,7 @@ Screenshots/
 1. Clone the repository:
 
 
-git clone https://github.com/your-username/AI-Chatbot-DotNet.git
+git clone [https://github.com/your-username/AIChatbot.git](https://github.com/ameerhamza78/AIChatbot/edit/main/README.md)
 
 
 2. Open the project in **Visual Studio**
