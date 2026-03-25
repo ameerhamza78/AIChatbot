@@ -76,8 +76,8 @@ Press F5 or click Start
 ## 🐳 Docker Instructions
 
 
-docker build -t ai-chatbot .
-docker run ai-chatbot
+docker build -t aichatbot .
+docker run aichatbot
 
 
 ---
