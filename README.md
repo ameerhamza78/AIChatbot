@@ -66,10 +66,10 @@ Press F5 or click Start
 ## 📸 Screenshots
 
 ### Chatbot Interface
-![Chatbot UI](Screenshots/chatbot-ui.png)
+![Chatbot UI](chatbot-ui.png)
 
 ### Sample Response
-![Response](Screenshots/response-example.png)
+![Response](response-example.png)
 
 ---
 
